@@ -18,4 +18,6 @@ So we converted the descriptors for each image into a fixed-length feature vecto
 HOW TO RUN:-
 1.To run each part of code,the zipped file dataset.zip is to be loaded when asked 
 2.The python scripts are colab specific and are to be run in colab only
+3.The large dataset.zip was put via git lfs,so to clone this and access dataset.zip,users should have git lfs installed
+
 
